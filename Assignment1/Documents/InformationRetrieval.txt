@@ -1,0 +1,3 @@
+Information retrieval is essential in search engines, where algorithms sift through vast data repositories to retrieve relevant information. 
+Techniques like indexing and ranking improve the relevance of results. 
+Document search engines are a practical application of information retrieval principles.

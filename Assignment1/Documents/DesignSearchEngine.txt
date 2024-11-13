@@ -1,0 +1,3 @@
+Designing a document search engine involves structuring an index to locate documents quickly and accurately. 
+The process includes setting goals, indexing documents, building search functionality, and presenting results. 
+This system aims to retrieve documents based on keywords and other criteria efficiently.

@@ -1,0 +1,3 @@
+Python is a popular programming language for building search engines due to its extensive libraries and ease of use. 
+It supports various data processing techniques essential for indexing and searching through documents. 
+Python is often the preferred language for prototyping search algorithms.

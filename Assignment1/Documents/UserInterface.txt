@@ -1,0 +1,3 @@
+A user interface (UI) is crucial for document search engines, allowing users to interact easily with the system. 
+UIs provide an accessible way to input search queries and display results, enhancing the overall user experience. 
+A well-designed UI improves the usability of the search engine.
